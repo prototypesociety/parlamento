@@ -14,6 +14,7 @@ Sociedad laica y regida por la democracia del pueblo.
  
 
 ##  Economía
+La divisa oficial de PSociety es el PCoin (€).
 Todos los wallets del estado deberán ser listados en una página web pública.
  
 El estado sólo podrá endeudarse en las siguientes circunstancias:
