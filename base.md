@@ -4,13 +4,13 @@ Sociedad laica y regida por la democracia del pueblo.
 # Índice
  - [Economía](#economia)
  - [Participación colectiva](#participación-colectiva)
- - [Armas](#Armas)
- - [Sustancias adictivas](#Sustancias-adictivas)
- - [Educación](#Educación)
- - [Prisión](#Prisión)
- - [Inmigración](#Inmigración)
- - [Empresas](#Empresas)
- - [Culto a la religión](#Culto-a-la-religión)
+ - [Armas](#armas)
+ - [Sustancias adictivas](#sustancias-adictivas)
+ - [Educación](#educación)
+ - [Prisión](#prisión)
+ - [Inmigración](#inmigracion)
+ - [Empresas](#empresas)
+ - [Culto a la religión](#culto-a-la-religión)
  
 
 ##  Economía
