@@ -15,6 +15,7 @@ Sociedad laica y regida por la democracia del pueblo.
 
 ##  Economía
 La divisa oficial de PSociety es el PCoin (€).
+
 Todos los wallets del estado deberán ser listados en una página web pública.
  
 El estado sólo podrá endeudarse en las siguientes circunstancias:
@@ -46,6 +47,7 @@ Cualquier persona que se encuentre en estado de ebriedad en la vía pública, ba
  
 ## Educación
 Las instituciones educativas sólo pueden ser públicas.
+
 No se pueden hacer donaciones a un centro en específico.
  
  
