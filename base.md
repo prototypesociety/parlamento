@@ -52,7 +52,7 @@ No se pueden hacer donaciones a un centro en específico.
  
  
 ## Prisión
-Toda persona sentencia a estar en un centro penitenciario, tendrá que realizar 8 horas de trabajos comunitarios (tareas de reciclaje, etc..)
+Toda persona sentenciada a estar en un centro penitenciario, tendrá que realizar 8 horas de trabajos comunitarios (tareas de reciclaje, etc..)
 
 ## Inmigración
 La entrada en país estará permitida sólo bajo los siguientes motivos:
